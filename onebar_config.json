@@ -1,0 +1,11 @@
+{
+    "paths":
+    {
+        "taskbarPath": "/mnt/c/Users/bremo/AppData/Roaming/Microsoft/Internet Explorer/Quick Launch/User Pinned/TaskBar",
+        "appsPath": "/mnt/c/Program Files",
+        "programPath": "/mnt/c/Program Files (x86)",
+        "desktopPath": "/mnt/c/Users/bremo/OneDrive/New_Desk/"
+    },
+
+    "logging_enabled": true
+}
